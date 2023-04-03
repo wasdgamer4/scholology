@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Apr 2023 18:43:36 at sites.google.com/view/scholology +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" sites.google.com/view/scholology -O1 "C:\My Web Sites\Scholology" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://www.powr.io/powr.js?platform=google%22></script>%22 (from https://sites.google.com/view/scholology/home-schoology)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://tridents-web.aarnavdave.repl.co" (from https://sites.google.com/view/scholology/courses)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://flipgrid.gq" (from https://sites.google.com/view/scholology/courses)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://metallic.gq" (from https://sites.google.com/view/scholology/courses)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://ubg100.github.io" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://radon.games" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://tbg95.github.io" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://geometryspot.com/activities/" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://cookieduck-dev.github.io" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://general-mathematics-beta-2.aarnavdave.repl.co/service/hvtrs8%2F-pmevs%2Ckczuipe%2Ccmm-gcmgs" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://shiny.star.is" (from https://sites.google.com/view/scholology/groups)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://blazermovies.gq/?movie=watch-cocaine-bear-94102%22></iframe> (from https://sites.google.com/view/scholology/grade-report)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://blazermovies.gq/?movie=watch-cocaine-bear-94102%22 (from https://sites.google.com/view/scholology/grade-report)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/"https://bocchilorenzo.github.io/invuedious/" (from https://sites.google.com/view/scholology/calendar)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/notifiations/"https://cattn.github.io/gba" (from https://sites.google.com/view/scholology/notifiations/emulators)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/notifiations/"https://dublins.glitch.me" (from https://sites.google.com/view/scholology/notifiations/bookmarklets)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/notifiations/"https://bookmarklets-website.donoldjtrump.repl.co/" (from https://sites.google.com/view/scholology/notifiations/bookmarklets)
+18:43:49	Error: 	"Not Found" (404) at link https://sites.google.com/view/scholology/notifiations/"https://chatgpt.syrud.repl.co/" (from https://sites.google.com/view/scholology/notifiations/chatgpt)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 30 links scanned, 11 files written (950742 bytes overall) [474955 bytes received at 36535 bytes/sec], 2433827 bytes transferred using HTTP compression in 30 files, ratio 16%
+(18 errors, 0 warnings, 0 messages)
